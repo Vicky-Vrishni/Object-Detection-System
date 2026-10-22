@@ -1,4 +1,4 @@
-# ObjectDetectionPro 
+# Object Detection Pro 
 
 Real-time object detection system built using SSD-MobileNetV2 
 pretrained on COCO dataset, fine-tuned on Kaggle Open Images V7.
