@@ -1,4 +1,4 @@
-# ObjectDetectionPro
+# ObjectDetectionPro 
 
 Real-time object detection system built using SSD-MobileNetV2 
 pretrained on COCO dataset, fine-tuned on Kaggle Open Images V7.
@@ -19,4 +19,3 @@ chairs, and books in real-time using a single image or webcam feed.
 - Trained on  : COCO Dataset (80 classes)
 - Fine-tuned  : Kaggle Open Images V7 (600+ classes)
 
-## Project Structure
